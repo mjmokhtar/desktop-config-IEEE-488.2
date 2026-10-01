@@ -1,5 +1,7 @@
 # 🐍 Python Project
 
+🇮🇩 Bahasa Indonesia | [🇬🇧 English](README.en.md)
+
 Proyek ini ditulis menggunakan bahasa **Python**.  
 Panduan di bawah ini menjelaskan cara menjalankan kode ini di lingkungan lokal Anda.
 
